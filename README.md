@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Richardmakori
+- 👀 I’m a Software Engineer in learning and in process.
+- 🌱 I’m currently learning software development...
+- 💞️ I’m looking to collaborate on ...
+
+
