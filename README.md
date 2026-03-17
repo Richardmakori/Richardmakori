@@ -18,11 +18,6 @@ Currently exploring AI-powered systems and automation tools
 ---
 [![](https://visitcount.itsvg.in/api?id=Richardmakori&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsbornNyakaru&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsbornNyakaru&layout=compact&theme=radical)
-
 
 ## 🧑‍💻 Current Projects
 
