@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Richard Makori   <br>Software Engineer | Fullstack & Mobile Developer
+## Hi, I'm Richard Makori
+Software Engineer | Fullstack & Mobile Developer
 
 I build scalable web and mobile applications with a focus on clean UI, performance, and real-world problem solving.
 Currently exploring AI-powered systems and automation tools
@@ -18,4 +18,20 @@ Currently exploring AI-powered systems and automation tools
 ---
 [![](https://visitcount.itsvg.in/api?id=Richardmakori&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsbornNyakaru&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsbornNyakaru&layout=compact&theme=radical)
+
+
+## 🧑‍💻 Current Projects
+
+# Telemedicine Platform
+
+A fullstack telemedicine application enabling patients to book appointments, consult doctors via video, and manage medical interactions remotely.
+
+---
+
+## 🎯 Goals for 2026
+
+- Launch the Application
